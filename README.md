@@ -23,5 +23,3 @@ I am Yutong Zhang. Welcome to my GitHub profile page :-)
 - 💡 Want to learn `Flutter`, `Haskell`, ...
 - 🌶️ Love spicy food because my hometown is Sichuan.
 
-<script src="https://gist.github.com/TonyZYT2000/ed41064f9cb2806653fdcb75cb6077f1.js"></script>
-
