@@ -23,7 +23,14 @@ I am Yutong Zhang. Welcome to my GitHub profile page :-)
 - 💡 Want to learn `Haskell`, `Rust` ...
 - 🌶️ Love spicy food because my hometown is Sichuan.
 
-|   |   |
-|---|---|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyzyt2000&layout=compact&theme=radical) | ![tonyzyt2000's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TonyZYT2000&theme=radical) |
+<table>
+  <tr>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyzyt2000&layout=compact&theme=radical"/>
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TonyZYT2000&theme=radical"/>
+    </td>
+  </tr>
+</table>
 
