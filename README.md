@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I am Yutong Zhang. Welcome to my GitHub profile page :-)
 
-- 🏫 College student in UCSD.
+- 🏫 Undergraduate student in UCSD.
 - 💾 Mostly coding in `C`, `C++` and `Python`.
-- 📚 Currently learning *SICP* and  *Algorithm*.
-- 💡 Want to learn `Haskell`, `Rust` ...
+- 📚 Currently learning  *Algorithm*,`Haskell` and `OptiX`.
+- 💡 Want to learn `Vulkan`, `Rust` ...
 - 🌶️ Love spicy food because my hometown is Sichuan.
 
 <table>
