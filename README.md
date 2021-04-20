@@ -26,11 +26,10 @@ I am Yutong Zhang. Welcome to my GitHub profile page :-)
 <table>
   <tr>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TonyZYT2000"/>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TonyZYT2000&layout=compact"/>
     </td>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyzyt2000&layout=compact"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyzyt2000&layout=default"/>
     </td>
   </tr>
 </table>
-
