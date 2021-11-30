@@ -19,17 +19,6 @@ I am Yutong Zhang. Welcome to my GitHub profile page :-)
 
 - 🏫 Undergraduate student in UCSD.
 - 💾 Mostly coding in `C`, `C++` and `Python`.
-- 📚 Currently learning  *Algorithm*,`Haskell` and `OptiX`.
+- 📚 Currently learning sampling techniques in rendering and PBD simulation.
 - 💡 Want to learn `Vulkan`, `Rust` ...
 - 🌶️ Love spicy food because my hometown is Sichuan.
-
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TonyZYT2000&layout=compact"/>
-    </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonyzyt2000&layout=default"/>
-    </td>
-  </tr>
-</table>
