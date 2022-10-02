@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I am Yutong Zhang. Welcome to my GitHub profile page :-)
 
-- 🏫 Undergraduate student in UCSD.
-- 💾 Mostly coding in `C`, `C++` and `Python`.
-- 📚 Currently learning sampling techniques in rendering and PBD simulation.
+- 🏫 Master student in UCSD.
+- 💾 Mostly coding in `C++` and `Python`.
+- 📚 Currently learning deformable simulation and differentiable simulation.
 - 💡 Want to learn `Vulkan`, `Rust` ...
 - 🌶️ Love spicy food because my hometown is Sichuan.
