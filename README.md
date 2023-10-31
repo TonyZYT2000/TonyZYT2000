@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Yutong Zhang. Welcome to my GitHub profile page :-)
 
-- 🏫 Master student in UCSD.
+- 🏫 Master student at UCSD.
 - 💾 Mostly coding in `C++` and `Python`.
 - 📚 Currently learning deformable simulation and differentiable simulation.
 - 💡 Want to learn `Vulkan`, `Rust` ...
