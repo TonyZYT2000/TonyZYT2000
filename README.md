@@ -19,6 +19,6 @@ I am Yutong Zhang. Welcome to my GitHub profile page :-)
 
 - 🏫 PhD student at CU Boulder.
 - 💾 Mostly coding in `C++` and `Python`.
-- 📚 Currently learning diffusion and policy learning.
+- 📚 Currently working on diffusion and robot learning.
 - 💡 Want to learn `Vulkan`, `Rust` ...
 - 🌶️ Love spicy food because my hometown is Sichuan.
